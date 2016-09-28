@@ -2,10 +2,13 @@
 My Ruby solutions and notes from Cracking the Coding Interview's partnership with HackerRank
 
 ## 7 Steps to Solve Algorithm Problems
-  1- Listen
+1 - Listen
+  
     - Typically every detail given to you in a problem matters
-    - So if you solve a problem and a detail isn't utilized - think for a second if you may have missed a better solution that is indicated by that detail
-  2- Example
+    - So if you solve a problem and a detail isn't utilized - think for a second if you may have missed a better solution that is   indicated by that detail
+    
+2 - Example
+  
     - Come up with a good example input for the problem
     - Good Examples tend to be a little BIGGER, and do not include special cases
     - i.e. Say you want to compare two sorted arrays and find the # of elements in common
@@ -16,7 +19,8 @@ My Ruby solutions and notes from Cracking the Coding Interview's partnership wit
         - [1,5,15,20,30,37]
         - [2,5,13,30,32,35,37,42]
     
-  3- Come up with a brute force algorithm
+3 - Come up with a brute force algorithm
+  
     - this checks that you understand the problem
     - shows that you're at least good enough to get that
     - it's a good place to optimize from
@@ -24,9 +28,13 @@ My Ruby solutions and notes from Cracking the Coding Interview's partnership wit
       - State it (describe it)
       - State the runtime of it
       - OPTIMIZE
-  4- Optimize (you haven't coded it yet)
-  5- Walk through your algorithm (knowing 80% of what you're going to do isn't good enough to start coding yet)
-  6- CODE
+      
+4- Optimize (you haven't coded it yet)
+  
+5- Walk through your algorithm (knowing 80% of what you're going to do isn't good enough to start coding yet)
+  
+6- CODE
+  
     - write your lines straight
     - use board space wisely
     - coding style matters
@@ -43,4 +51,4 @@ My Ruby solutions and notes from Cracking the Coding Interview's partnership wit
            end 
            
       
-  7-
+7-
